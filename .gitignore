@@ -10,8 +10,8 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-Shop/target
-ShopBack/target
+/Shop/target/
+/ShopBack/target/
 
 # Package Files #
 *.jar
